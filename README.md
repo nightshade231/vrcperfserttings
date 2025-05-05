@@ -1,3 +1,8 @@
+Want to contribute to making these setting better for wider system configurations? Fork this repository and make a pull request!
+
+
+---------------------
+
 We all love being on VRChat, desktop, mobile, Standalone, PCVR, whatever have you.
 
 However, performance comes into question pretty quickly, notably with larger instances.
