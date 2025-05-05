@@ -3,7 +3,7 @@
 
 ---------------------
 
-We all love being on VRChat, desktop, mobile, Standalone, PCVR, whatever have you.
+We all love being on VRChat, whether that is on desktop, mobile, Standalone, PCVR, or whatever have you.
 
 However, performance comes into question pretty quickly, notably with larger instances.
 Here’s what I’ve tested that works on a range of systems in PCVR, with a potato system and a respectable system to create a range for all systems to use.
