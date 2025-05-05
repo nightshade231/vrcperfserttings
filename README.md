@@ -1,4 +1,4 @@
-# Want to contribute to making these setting better for wider system configurations? Fork this repository and make a pull request!
+# Want to contribute to making these setting better for wider system configurations? Fork this repository's `Beta` branch and make a pull request!
 
 
 ---------------------
